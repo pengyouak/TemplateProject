@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Xml.Serialization;
+using TemplateProject.Log;
 
-namespace TemplateProject.Log
+namespace TemplateProject.Plugins.Xml
 { 
     public class Utf8StringWriter : StringWriter
     {

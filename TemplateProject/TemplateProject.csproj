@@ -106,9 +106,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="Xml\XmlHelper.cs" />
-    <Compile Include="Xml\XmlProcess.cs" />
-    <Compile Include="Xml\XmlSerializeHelper.cs" />
+    <Compile Include="Plugins\Xml\XmlHelper.cs" />
+    <Compile Include="Plugins\Xml\XmlProcess.cs" />
+    <Compile Include="Plugins\Xml\XmlSerializeHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

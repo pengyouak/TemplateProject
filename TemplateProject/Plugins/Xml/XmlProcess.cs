@@ -3,7 +3,7 @@ using System.Data;
 using System.IO;
 using System.Xml;
 
-namespace TemplateProject.Log
+namespace TemplateProject.Plugins.Xml
 {
     public class XmlProcess
     {

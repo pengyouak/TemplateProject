@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using System.Data;
 
-namespace TemplateProject.Log
+namespace TemplateProject.Plugins.Xml
 {
     /// <summary>
     /// Xml的操作公共类
