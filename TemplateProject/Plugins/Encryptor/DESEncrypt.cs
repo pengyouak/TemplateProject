@@ -76,11 +76,11 @@ namespace TemplateProject.Plugins.Encryptor
             {
                 try
                 {
-
                     var des = new TripleDESCryptoServiceProvider
                     {
                         Key = Encoding.UTF8.GetBytes(aStrKey.Substring(0, 24)),//长度必须24个字节 
-                        Mode = mode
+                        Mode = mode,
+                        Padding = PaddingMode.PKCS7
                     };
                     if (mode == CipherMode.ECB)
                     {
