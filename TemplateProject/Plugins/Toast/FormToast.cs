@@ -12,6 +12,32 @@ namespace TemplateProject.Plugins.Toast
     public partial class FormToast : Form
     {
         /// <summary>
+        /// 设置图标
+        /// </summary>
+        public Image CaptionIcon
+        {
+            set { pbIco.Image = value; }
+        }
+
+        /// <summary>
+        /// 是否显示图标
+        /// </summary>
+        public bool CaptionIconVisible
+        {
+            get { return plIco.Visible; }
+            set { plIco.Visible = value; }
+        }
+
+        /// <summary>
+        /// 是否显示标题
+        /// </summary>
+        public bool CaptionVisible
+        {
+            get { return plCaption.Visible; }
+            set { plCaption.Visible = value; }
+        }
+
+        /// <summary>
         /// 设置标题
         /// </summary>
         public string Caption
@@ -38,7 +64,7 @@ namespace TemplateProject.Plugins.Toast
             txtMsg.Text = message;
         }
 
-        public FormToast(string message):base()
+        public FormToast(string message) : base()
         {
             txtMsg.Text = message;
         }
