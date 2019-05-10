@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 
-namespace TemplateProject.Plugin
+namespace WindCommon.Plugin
 {
     /// <summary>
     /// 电子邮件操作类。

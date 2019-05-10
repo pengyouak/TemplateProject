@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace TemplateProject.Plugins.OpaqueLayer
+namespace WindCommon.Plugins.OpaqueLayer
 {
     public class OpaqueLayer
     {

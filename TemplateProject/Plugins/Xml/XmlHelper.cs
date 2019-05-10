@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using System.Data;
 
-namespace TemplateProject.Plugins.Xml
+namespace WindCommon.Plugins.Xml
 {
     /// <summary>
     /// Xml的操作公共类

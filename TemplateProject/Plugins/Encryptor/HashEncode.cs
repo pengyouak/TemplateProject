@@ -2,7 +2,7 @@ using System;
 using System.Text;
 using System.Security.Cryptography;
 
-namespace TemplateProject.Plugins.Encryptor
+namespace WindCommon.Plugins.Encryptor
 {
 	/// <summary>
 	/// 得到随机安全码（哈希加密）。

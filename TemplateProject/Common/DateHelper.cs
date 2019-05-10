@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace TemplateProject.Common
+namespace WindCommon.Common
 {
     public class DateHelper
     {

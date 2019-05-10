@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Xml.Serialization;
-using TemplateProject.Log;
+using WindCommon.Log;
 
-namespace TemplateProject.Plugins.Xml
+namespace WindCommon.Plugins.Xml
 { 
     public class Utf8StringWriter : StringWriter
     {

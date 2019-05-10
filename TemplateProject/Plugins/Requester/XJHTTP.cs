@@ -11,7 +11,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace TemplateProject.Plugins.Requester
+namespace WindCommon.Plugins.Requester
 {
     /// <summary>
     /// WinInet的方式请求数据

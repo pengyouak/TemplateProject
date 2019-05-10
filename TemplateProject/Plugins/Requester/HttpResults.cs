@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace TemplateProject.Plugins.Requester
+namespace WindCommon.Plugins.Requester
 {
 
     /// <summary>

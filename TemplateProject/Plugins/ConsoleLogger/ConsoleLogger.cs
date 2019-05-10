@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using TemplateProject.Common;
+using WindCommon.Common;
 
-namespace TemplateProject.Plugins.ConsoleLogger
+namespace WindCommon.Plugins.ConsoleLogger
 {
     public class ConsoleLogger: System.Diagnostics.TraceListener, IDisposable
     {

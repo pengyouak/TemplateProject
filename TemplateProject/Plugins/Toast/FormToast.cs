@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace TemplateProject.Plugins.Toast
+namespace WindCommon.Plugins.Toast
 {
     public partial class FormToast : Form
     {

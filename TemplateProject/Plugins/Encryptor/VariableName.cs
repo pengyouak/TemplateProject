@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace TemplateProject.Plugins.Encryptor
+namespace WindCommon.Plugins.Encryptor
 {
     /// <summary>
     /// VariableName 的摘要说明。

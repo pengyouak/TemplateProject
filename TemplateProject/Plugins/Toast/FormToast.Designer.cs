@@ -1,4 +1,4 @@
-﻿namespace TemplateProject.Plugins.Toast
+﻿namespace WindCommon.Plugins.Toast
 {
     partial class FormToast
     {
