@@ -10,6 +10,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 
 namespace WindCommon.Plugins.Requester
 {
@@ -234,7 +235,7 @@ namespace WindCommon.Plugins.Requester
         HttpResults hr;
 
         #region Json序列化方法 Framework 2.0下无效 ,默认注释.如需启用 请参考类库文首提示
-        /*
+        
         /// <summary>
         /// 将指定的Json字符串转为指定的T类型对象  
         /// </summary>
@@ -268,7 +269,7 @@ namespace WindCommon.Plugins.Requester
             {
                 return string.Empty;
             }
-        }*/
+        }
         #endregion
 
         #region 设置/获取系统时间 / 获取当前/指定日期时间戳方法 / GMT时间与本地时间互转
