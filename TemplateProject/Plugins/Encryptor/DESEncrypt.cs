@@ -2,7 +2,7 @@
 using System.IO;
 using System.Security.Cryptography;  
 using System.Text;
-namespace WindCommon.Log.Encryptor
+namespace WindCommon.Plugins.Encryptor
 {
     /// <summary>
     /// DESº”√‹/Ω‚√‹¿‡°£

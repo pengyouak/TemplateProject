@@ -37,7 +37,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace WindCommon.Log.Requester
+namespace WindCommon.Plugins.Requester
 {
     /// <summary>
     /// Http请求操作类 

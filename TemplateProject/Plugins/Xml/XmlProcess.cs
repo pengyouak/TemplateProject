@@ -3,7 +3,7 @@ using System.Data;
 using System.IO;
 using System.Xml;
 
-namespace WindCommon.Log.Xml
+namespace WindCommon.Plugins.Xml
 {
     public class XmlProcess
     {

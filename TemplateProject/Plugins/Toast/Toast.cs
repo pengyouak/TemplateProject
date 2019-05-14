@@ -4,11 +4,11 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using WindCommon.Log.Toast;
+using WindCommon.Plugins.Toast;
 using WindCommon.Controls;
 using WindCommon.Controls.PopupControl;
 
-namespace WindCommon.Log.Toast
+namespace WindCommon.Plugins.Toast
 {
     public class Toast
     {

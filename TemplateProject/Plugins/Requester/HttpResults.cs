@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace WindCommon.Log.Requester
+namespace WindCommon.Plugins.Requester
 {
 
     /// <summary>

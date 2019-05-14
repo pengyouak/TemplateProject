@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using WindCommon.Common;
 
-namespace WindCommon.Log.ConsoleLogger
+namespace WindCommon.Plugins.ConsoleLogger
 {
     public class ConsoleLogger: System.Diagnostics.TraceListener, IDisposable
     {

@@ -12,7 +12,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Web.Script.Serialization;
 
-namespace WindCommon.Log.Requester
+namespace WindCommon.Plugins.Requester
 {
     /// <summary>
     /// WinInet的方式请求数据

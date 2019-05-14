@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace WindCommon.Log.ConsoleLogger
+namespace WindCommon.Plugins.ConsoleLogger
 {
     public enum ConsoleLogCategory
     {

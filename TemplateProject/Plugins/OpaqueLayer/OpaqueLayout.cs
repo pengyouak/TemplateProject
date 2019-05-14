@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WindCommon.Log.OpaqueLayer
+namespace WindCommon.Plugins.OpaqueLayer
 {
     /// <summary>
     /// 自定义控件:半透明控件
