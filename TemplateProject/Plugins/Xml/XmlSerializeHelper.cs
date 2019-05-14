@@ -5,7 +5,7 @@ using System.Text;
 using System.Xml.Serialization;
 using WindCommon.Log;
 
-namespace WindCommon.Plugins.Xml
+namespace WindCommon.Log.Xml
 { 
     public class Utf8StringWriter : StringWriter
     {

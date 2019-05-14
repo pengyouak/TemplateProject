@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace WindCommon.Plugins.Requester
+namespace WindCommon.Log.Requester
 {
     /// <summary>
     /// 正则表达式静态类

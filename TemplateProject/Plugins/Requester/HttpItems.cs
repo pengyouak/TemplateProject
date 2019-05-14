@@ -2,7 +2,7 @@
 using System.Net;
 using System.Text;
 
-namespace WindCommon.Plugins.Requester
+namespace WindCommon.Log.Requester
 {
 	/// <summary>
 	///     Http请求参考类

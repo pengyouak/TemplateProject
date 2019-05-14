@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 using System.IO;
 using System.Text.RegularExpressions;
 
-namespace WindCommon.Plugins.Encryptor
+namespace WindCommon.Log.Encryptor
 {
     /// <summary> 
     /// RSA加密解密及RSA签名和验证

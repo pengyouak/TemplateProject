@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Web.Security;
 
-namespace WindCommon.Plugins.Encryptor
+namespace WindCommon.Log.Encryptor
 {
     /// <summary>
     /// MD5

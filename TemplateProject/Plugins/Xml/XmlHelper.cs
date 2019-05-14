@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using System.Data;
 
-namespace WindCommon.Plugins.Xml
+namespace WindCommon.Log.Xml
 {
     /// <summary>
     /// Xml的操作公共类

@@ -5,7 +5,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Collections;
 
-namespace WindCommon.Plugins.Encryptor
+namespace WindCommon.Log.Encryptor
 {
     /// <summary>
     /// MySecurity(安全类) 的摘要说明。

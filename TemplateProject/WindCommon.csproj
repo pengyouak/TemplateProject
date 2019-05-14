@@ -79,6 +79,7 @@
     <Compile Include="Controls\PopupControl\PopupComboBox.Designer.cs">
       <DependentUpon>PopupComboBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="Plugins\LibLog.cs" />
     <Compile Include="Log\Logger.cs" />
     <Compile Include="Plugins\ConsoleLogger\ConsoleLogCategory.cs" />
     <Compile Include="Plugins\ConsoleLogger\ConsoleLogger.cs" />
